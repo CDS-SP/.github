@@ -1,9 +1,9 @@
- ## Cheng's Data Service
+ ## DoubleTrends
 
   > Data engineering and quantitative research for teams that need
   > reproducible analysis, not dashboards.
 
-  Cheng's Data Service is a small Toronto practice. We do two things:
+  We are a small Toronto practice. We do two things:
 
   1. **Consulting** — machine learning models, statistical analysis,
      forecasting, and data pipelines, delivered with reproducible code
