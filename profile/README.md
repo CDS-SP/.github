@@ -3,7 +3,7 @@
   > Data engineering and quantitative research for teams that need
   > reproducible analysis, not dashboards.
 
-  We are a small Toronto practice. We do two things:
+  We are a privately held company. We do two things:
 
   1. **DoubleTrends™** — a public, rules-based oversold-reversal signal
      on the S&P 500 for ETF investors. Full track record, full
