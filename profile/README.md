@@ -1,4 +1,4 @@
- ## DoubleTrends
+ ## DoubleTrends™
 
   > Data engineering and quantitative research for teams that need
   > reproducible analysis, not dashboards.
