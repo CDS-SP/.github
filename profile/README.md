@@ -25,6 +25,6 @@
 
   ### Contact
 
-  - **Product, subscriptions, refunds:** info@doubletrends.com
+  - **Product, subscriptions, refunds:** support@doubletrends.com
   - **Consulting enquiries:** info@doubletrends.com
   - **Office:** 14th Floor – 955 Bay Street, Toronto, ON M5S 0C6, Canada
