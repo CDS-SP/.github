@@ -1,8 +1,5 @@
  ## DoubleTrends L.L.C.
 
-  > Data engineering and quantitative research for teams that need
-  > reproducible analysis, not dashboards.
-
   We are a privately held company. We do two things:
 
   1. **DoubleTrends™** — a public, rules-based oversold-reversal signal
